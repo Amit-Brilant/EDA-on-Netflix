@@ -1,5 +1,11 @@
-## EDA on Netflix
 
+
+<p align="center">
+	
+<img src="netflix.png" alt="" title="Optional title" width="300"  />
+</p>
+
+## EDA on Netflix dataset
 ## About
 This is a simple data analysis practice project
 
